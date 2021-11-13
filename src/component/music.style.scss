@@ -1,0 +1,19 @@
+@import "../variables";
+
+.music {
+    width: 5rem;
+    margin: 0 1rem;
+    .musicBg{
+        width: 0;
+        height: 0;
+    }
+    .musicToggle{
+        background: none;
+        border: 0;
+    }
+    svg{
+        fill: white;
+        width: 1.5rem;
+        height: 1.5rem;
+    }
+}
